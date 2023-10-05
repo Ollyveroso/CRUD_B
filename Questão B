@@ -1,76 +1,29 @@
-Qual é o principal objetivo do CRUD?
-a) Criar
-b) Ler
-c) Atualizar
-d) Deletar
+1. Qual é o principal objetivo do CRUD?
+   **Resposta: b) Ler**
 
+2. Qual operação do CRUD é usada para adicionar novos dados a um banco de dados?
+   **Resposta: a) Create**
 
-Pergunta 2:
-Qual operação do CRUD é usada para adicionar novos dados a um banco de dados?
-a) Create
-b) Read
-c) Update
-d) Delete
+3. Qual operação do CRUD é usada para recuperar dados de um banco de dados?
+   **Resposta: b) Read**
 
+4. Qual operação do CRUD é usada para modificar dados existentes em um banco de dados?
+   **Resposta: c) Update**
 
-Pergunta 3:
-Qual operação do CRUD é usada para recuperar dados de um banco de dados?
-a) Create
-b) Read
-c) Update
-d) Delete
+5. Qual operação do CRUD é usada para remover dados de um banco de dados?
+   **Resposta: d) Delete**
 
+6. O CRUD é um conceito comumente usado em qual área?
+   **Resposta: a) Programação web**
 
-Pergunta 4:
-Qual operação do CRUD é usada para modificar dados existentes em um banco de dados?
-a) Create
-b) Read
-c) Update
-d) Delete
+7. Quais são as operações básicas suportadas pelo CRUD?
+   **Resposta: b) Create, Read, Update, Delete**
 
+8. Qual operação do CRUD é usada para obter dados filtrados de um banco de dados?
+   **Resposta: b) Read**
 
-Pergunta 5:
-Qual operação do CRUD é usada para remover dados de um banco de dados?
-a) Create
-b) Read
-c) Update
-d) Delete
+9. Qual operação do CRUD é usada para atualizar apenas parte dos dados em um banco de dados?
+   **Resposta: c) Update**
 
-
-Pergunta 6:
-O CRUD é um conceito comumente usado em qual área?
-a) Programação web
-b) Programação de jogos
-c) Ciência de dados
-d) Inteligência artificial
-
-
-Pergunta 7:
-Quais são as operações básicas suportadas pelo CRUD?
-a) Add, Remove, Modify, Extract
-b) Create, Read, Update, Delete
-c) Copy, Rename, Upload, Download
-d) Search, Sort, Filter, Export
-
-Pergunta 8:
-Qual operação do CRUD é usada para obter dados filtrados de um banco de dados?
-a) Create
-b) Read
-c) Update
-d) Delete
-
-
-Pergunta 9:
-Qual operação do CRUD é usada para atualizar apenas parte dos dados em um banco de dados?
-a) Create
-b) Read
-c) Update
-d) Delete
-
-
-Pergunta 10:
-Qual operação do CRUD é usada para remover todos os dados de uma tabela em um banco de dados?
-a) Create
-b) Read
-c) Update
-d) Delete
+10. Qual operação do CRUD é usada para remover todos os dados de uma tabela em um banco de dados?
+    **Resposta: d) Delete**
